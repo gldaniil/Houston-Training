@@ -2,13 +2,13 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 900px;
-    background-color: rgba(192, 40, 40, 0.144);
+    background-color: rgba(182, 107, 226, 0.445);
 }
 
 main {
     font-size: 14pt;
     padding: 0px 20px 0px 20px;
-    background-color: rgba(172, 235, 214, 0.329);
+    background-color: rgba(186, 219, 211, 0.829);
     border: 2px solid blue;
 }
 
@@ -31,6 +31,7 @@ table, tr, th, td {
 
 figure {
     width: 13em;
+    margin-right: 0px;
     float: right;
 }
 
